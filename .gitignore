@@ -1,0 +1,11 @@
+# Unpublished or third-party material stays out of this public repository.
+private/
+data/
+results/
+*.bin
+*.dream3d
+*.h5
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
